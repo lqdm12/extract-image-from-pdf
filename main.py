@@ -24,6 +24,6 @@ def extract_images_from_pdf(pdf_path, output_dir):
             print(f"Saved: {svg_output_path}")
 
 # Example usage
-pdf_file = "QUIMICA-1.´df"  # Replace with your PDF file path
+pdf_file = "QUIMICA-1.pdf"  # Replace with your PDF file path
 output_directory = "extracted_images"
 extract_images_from_pdf(pdf_file, output_directory)
