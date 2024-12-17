@@ -1,4 +1,4 @@
-Here's a refined version of your README file for the PDF Image Extractor Python script:
+
 
 ```markdown
 # PDF Image Extractor
@@ -77,17 +77,3 @@ Contributions are welcome! Please feel free to submit a pull request or open an 
 - This project uses [pdf2image](https://github.com/Belval/pdf2image) for converting PDFs to images.
 - Thanks to [CairoSVG](https://cairosvg.org/) for providing an easy way to convert images to SVG format.
 ```
-
-### Explanation of Sections
-
-1. **Title**: Clearly states what the project is about.
-2. **Features**: Lists key functionalities of the script.
-3. **Requirements**: Details necessary libraries and installation instructions.
-4. **Usage**: Provides step-by-step instructions on how to use the script, including example code.
-5. **Example**: Offers a practical example of how to set up and run the script.
-6. **Output**: Describes what users can expect as output after running the script.
-7. **License**: Mentions how the project is licensed.
-8. **Contributing**: Encourages others to contribute to the project.
-9. **Acknowledgments**: Gives credit to libraries or tools used in the project.
-
-Feel free to modify any sections as needed or add additional information relevant to your specific use case!
